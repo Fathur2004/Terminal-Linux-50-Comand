@@ -32,5 +32,9 @@ Adapun Fungsi Commandnya Antara lain:<br>
  18. perintah "head fathur" = Perintah head fathur di Linux digunakan untuk menampilkan 10 baris pertama dari file bernama fathur.
  19. perintah "tail fathur" = Perintah tail fathur di Linux digunakan untuk menampilkan 10 baris terakhir dari file bernama fathur.
  20. perintah "tail -f fathur" = Perintah tail -f fathur di Linux digunakan untuk menampilkan 10 baris terakhir dari file bernama fathur, dan kemudian terus memperbarui tampilan dengan menampilkan baris baru yang ditambahkan ke file tersebut secara real-time.<br><br>
- 
+ ![alt text](https://github.com/Fathur2004/Terminal-Linux-50-Comand/blob/main/Picture/4.png?raw=true) <br><br>
+Adapun Fungsi Commandnya Antara lain:<br>
+21. perintah "cp fathur Documents" = Perintah cp fathur Documents di Linux digunakan untuk menyalin file bernama fathur ke direktori Documents
+22. perintah "mv fathur Documents" = Perintah mv fathur Documents di Linux digunakan untuk memindahkan file fathur ke dalam direktori Documents. Selain memindahkan, perintah mv juga dapat digunakan untuk mengganti nama file jika file tujuan berada di direktori yang sama.
+23. perintah "find /Documents -fathur "*.txt"" = Untuk mencari file dengan ekstensi .txt di dalam direktori /Documents
 #
