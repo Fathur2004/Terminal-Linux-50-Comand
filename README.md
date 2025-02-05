@@ -98,7 +98,4 @@ Adapun Fungsi Commandnya Antara lain:<br>
 ![alt text](https://github.com/Fathur2004/Terminal-Linux-50-Comand/blob/main/Picture/18.png?raw=true) <br><br>
 Adapun Fungsi Commandnya Antara lain:<br>
 55. perintah "snap install" = Perintah snap install digunakan untuk menginstal aplikasi yang dikemas dalam format Snap pada distribusi Linux yang mendukung Snapd, seperti Ubuntu, Debian, Fedora, Manjaro, dan lainnya.
-
-
-
 #
